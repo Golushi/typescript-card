@@ -10,17 +10,17 @@ export type ProductType = {
 const initState: ProductType[] = [
   {
     sku: "item0001",
-    name: "Widget",
+    name: "Assure Me Asuna",
     price: 9.99,
   },
   {
     sku: "item0002",
-    name: "Premium Widget",
+    name: "Beyond Time Asuna",
     price: 19.99,
   },
   {
     sku: "item0003",
-    name: "Deluxe Widget",
+    name: "Memories Will Never Vanish Asuna",
     price: 29.99,
   },
 ];
